@@ -1,0 +1,19 @@
+{
+  "name": "naeeb-56-18-simple-cli-calculator",
+  "version": "1.0.0",
+  "description": "Coding simple calculator using Typescript.",
+  "main": "index.js",
+  "type":"module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "\t`"
+  },
+  "author": "Naeeb",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
